@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  QFComposite
 //
-//  Created by 李一平 on 2018/12/24.
+//  Created by 情风 on 2018/12/24.
 //  Copyright © 2018 qingfengiOS. All rights reserved.
 //
 
